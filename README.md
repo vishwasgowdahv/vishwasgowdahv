@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vishwas,<br>✨ React Frontend Developer<br>👨‍🎓 Studying Information Systems at FH Aachen, Germany<br>👨‍💻 Available to work
+👋 Hi, I'm Vishwas,<br>✨ Full stack Developer<br>👨‍🎓 Studying Information Systems at FH Aachen, Germany<br>👨‍💻 Available to work
 
 
 ## 🌐 Socials:
